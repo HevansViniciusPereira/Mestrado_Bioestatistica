@@ -5,4 +5,6 @@ Análises feitas como trabalho para o Mestrado em Bioestatística na Universidad
 
 O arquivo <a href="https://github.com/HevansViniciusPereira/Mestrado_Bioestatistica/blob/main/Dissertacao_tratamento.ipynb">Dissertacao_tratamento.ipynb</a> contém a Análise Exploratória de Dados, tratamentos e limpezas necessárias.
 
-O arquivo <a href="https://github.com/HevansViniciusPereira/Monte-Carlo-Simulation">Dissertacao_modelos.ipynb</a> contém a criação de e avaliação de modelos de classificação.
+O arquivo <a href="https://github.com/HevansViniciusPereira/Mestrado_Bioestatistica/blob/main/Dissertacao_modelos.ipynb">Dissertacao_modelos.ipynb</a> contém a criação de e avaliação de modelos de classificação.
+
+
